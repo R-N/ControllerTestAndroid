@@ -1,3 +1,10 @@
+Library
+obj
+Reporter
+*.apk
+*.zip
+Assets/TouchScript
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
